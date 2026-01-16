@@ -18,7 +18,7 @@ Since this extension is custom-built, you need to load it manually into Chrome.
 1.  **Download the Code**:
     - Clone this repository or download the ZIP file and extract it.
     ```bash
-    git clone https://github.com/noruzzamans/linkedin-ai-reply-extension.git
+    git clone https://github.com/noruzzamans/sparklink-ai.git
     ```
 
 2.  **Open Chrome Extensions**:
@@ -29,7 +29,7 @@ Since this extension is custom-built, you need to load it manually into Chrome.
 
 4.  **Load the Extension**:
     - Click the **"Load unpacked"** button (top-left).
-    - Select the folder wherever you downloaded/cloned this repository (e.g., `linkedin-ai-reply-extension`).
+    - Select the folder wherever you downloaded/cloned this repository.
 
 ## Configuration
 
