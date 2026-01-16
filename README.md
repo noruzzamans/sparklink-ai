@@ -47,7 +47,7 @@ To make the AI work, you need a free API Key from Google.
     - Paste the key into the box.
     - Click **"Save Key"**.
 
-> **Note:** This extension uses the stable `Gemini 2.5 Flash` model.
+> **Note:** This extension uses the reliable `Gemini 2.0 Flash` model.
 
 ## How to Use
 
