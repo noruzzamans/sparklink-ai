@@ -1,4 +1,4 @@
-# LinkedIn AI Reply Extension ✨
+# SparkLink AI - LinkedIn Reply Extension ✨
 
 A free, open-source Chrome Extension that helps you generate intelligent, engaging, and human-like replies on LinkedIn using your own Google Gemini API Key.
 

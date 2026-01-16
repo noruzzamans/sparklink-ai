@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LinkedIn AI Reply - Sparkle",
+  "name": "SparkLink AI",
   "version": "1.0",
   "description": "Generate AI replies for LinkedIn posts using Gemini.",
   "permissions": [
