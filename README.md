@@ -31,16 +31,23 @@ Since this extension is custom-built, you need to load it manually into Chrome.
     - Click the **"Load unpacked"** button (top-left).
     - Select the folder wherever you downloaded/cloned this repository.
 
-## Configuration
+## 🔑 Configuration (Required)
 
-1.  **Get a Free Gemini API Key**:
-    - Visit [Google AI Studio](https://aistudio.google.com/app/apikey).
+To make the AI work, you need a free API Key from Google.
+
+1.  **Get your Key**:
+    - Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
     - Click **"Create API Key"**.
+    - Select **"Create API key in new project"**.
+    - Copy the key (it starts with `AIza...`).
 
-2.  **Save Key in Extension**:
-    - Click the **Extension Icon** (blue puzzle piece or the logo) in your Chrome toolbar.
-    - Paste your API Key into the input field.
+2.  **Save in Extension**:
+    - Click the **SparkLink AI** icon (✨) in your Chrome toolbar.
+      *(If you don't see it, click the 🧩 Puzzle icon and Pin it)*.
+    - Paste the key into the box.
     - Click **"Save Key"**.
+
+> **Note:** This extension uses the `Gemini 1.5 Flash` model which is free of charge (within rate limits).
 
 ## How to Use
 
